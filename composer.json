@@ -1,0 +1,7 @@
+{
+    "autoload": {
+        "ps-4": {
+            "ExemploPDOMySQL\\" : "src/"
+        }
+    }
+}
